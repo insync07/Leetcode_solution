@@ -8,6 +8,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/insync07/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/insync07/Leetcode_solution/tree/master/0138-copy-list-with-random-pointer) |
 ## String
 |  |
@@ -24,6 +25,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/insync07/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/insync07/Leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
