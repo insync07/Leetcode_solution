@@ -13,4 +13,20 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/insync07/Leetcode_solution/tree/master/0008-string-to-integer-atoi) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/insync07/Leetcode_solution/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/insync07/Leetcode_solution/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/insync07/Leetcode_solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/insync07/Leetcode_solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
