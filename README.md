@@ -11,6 +11,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/insync07/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/insync07/Leetcode_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0203-remove-linked-list-elements](https://github.com/insync07/Leetcode_solution/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/insync07/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/insync07/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/insync07/Leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/insync07/Leetcode_solution/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/insync07/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/insync07/Leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -39,4 +41,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/insync07/Leetcode_solution/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/insync07/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/insync07/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
