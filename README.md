@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/insync07/Leetcode_solution/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/insync07/Leetcode_solution/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/insync07/Leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -32,6 +33,7 @@
 | [0203-remove-linked-list-elements](https://github.com/insync07/Leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/insync07/Leetcode_solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/insync07/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/insync07/Leetcode_solution/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/insync07/Leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
