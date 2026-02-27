@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/insync07/Leetcode_solution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/insync07/Leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -28,9 +29,14 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/insync07/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/insync07/Leetcode_solution/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/insync07/Leetcode_solution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/insync07/Leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/insync07/Leetcode_solution/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/insync07/Leetcode_solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
