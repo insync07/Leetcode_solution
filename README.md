@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/insync07/Leetcode_solution/tree/master/0138-copy-list-with-random-pointer) |
+| [2094-finding-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0326-power-of-three](https://github.com/insync07/Leetcode_solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/insync07/Leetcode_solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/insync07/Leetcode_solution/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -54,4 +56,16 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/insync07/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
