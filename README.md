@@ -25,6 +25,7 @@
 | [0326-power-of-three](https://github.com/insync07/Leetcode_solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/insync07/Leetcode_solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/insync07/Leetcode_solution/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/insync07/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0342-power-of-four](https://github.com/insync07/Leetcode_solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/insync07/Leetcode_solution/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/insync07/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
@@ -50,6 +52,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/insync07/Leetcode_solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/insync07/Leetcode_solution/tree/master/0342-power-of-four) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/insync07/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +75,8 @@
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Simulation
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/insync07/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
