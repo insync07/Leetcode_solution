@@ -34,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/insync07/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/insync07/Leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -73,6 +74,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/insync07/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [2094-finding-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/insync07/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/insync07/Leetcode_solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
