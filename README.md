@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/insync07/Leetcode_solution/tree/master/0008-string-to-integer-atoi) |
+| [0151-reverse-words-in-a-string](https://github.com/insync07/Leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/insync07/Leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/insync07/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
