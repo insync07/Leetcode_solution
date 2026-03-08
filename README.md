@@ -21,6 +21,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/insync07/Leetcode_solution/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/insync07/Leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/insync07/Leetcode_solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/insync07/Leetcode_solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/insync07/Leetcode_solution/tree/master/0342-power-of-four) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/insync07/Leetcode_solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/insync07/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/insync07/Leetcode_solution/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/insync07/Leetcode_solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
