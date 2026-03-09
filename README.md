@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/insync07/Leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/insync07/Leetcode_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [2094-finding-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -20,12 +21,14 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/insync07/Leetcode_solution/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/insync07/Leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/insync07/Leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/insync07/Leetcode_solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/insync07/Leetcode_solution/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/insync07/Leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/insync07/Leetcode_solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/insync07/Leetcode_solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/insync07/Leetcode_solution/tree/master/0326-power-of-three) |
