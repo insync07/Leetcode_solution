@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/insync07/Leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/insync07/Leetcode_solution/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/insync07/Leetcode_solution/tree/master/0169-majority-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
@@ -82,12 +83,14 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/insync07/Leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/insync07/Leetcode_solution/tree/master/0169-majority-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/insync07/Leetcode_solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2094-finding-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/insync07/Leetcode_solution/tree/master/0169-majority-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/insync07/Leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -102,8 +105,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/insync07/Leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/insync07/Leetcode_solution/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/insync07/Leetcode_solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/insync07/Leetcode_solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
