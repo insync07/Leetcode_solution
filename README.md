@@ -73,6 +73,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/insync07/Leetcode_solution/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/insync07/Leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/insync07/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -82,6 +83,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/insync07/Leetcode_solution/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/insync07/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/insync07/Leetcode_solution/tree/master/0169-majority-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/insync07/Leetcode_solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
