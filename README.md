@@ -83,6 +83,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/insync07/Leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/insync07/Leetcode_solution/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/insync07/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/insync07/Leetcode_solution/tree/master/0169-majority-element) |
@@ -107,6 +108,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/insync07/Leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/insync07/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/insync07/Leetcode_solution/tree/master/0169-majority-element) |
 ## Backtracking
@@ -120,5 +122,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/insync07/Leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/insync07/Leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
