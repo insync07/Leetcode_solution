@@ -86,6 +86,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/insync07/Leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/insync07/Leetcode_solution/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/insync07/Leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/insync07/Leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/insync07/Leetcode_solution/tree/master/0169-majority-element) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/insync07/Leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/insync07/Leetcode_solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -104,6 +105,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/insync07/Leetcode_solution/tree/master/0054-spiral-matrix) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/insync07/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
@@ -124,4 +126,8 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/insync07/Leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/insync07/Leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/insync07/Leetcode_solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
