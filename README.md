@@ -17,6 +17,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/insync07/Leetcode_solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0138-copy-list-with-random-pointer](https://github.com/insync07/Leetcode_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0203-remove-linked-list-elements](https://github.com/insync07/Leetcode_solution/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/insync07/Leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/insync07/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -50,6 +51,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/insync07/Leetcode_solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/insync07/Leetcode_solution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/insync07/Leetcode_solution/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/insync07/Leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/insync07/Leetcode_solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/insync07/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/insync07/Leetcode_solution/tree/master/0326-power-of-three) |
